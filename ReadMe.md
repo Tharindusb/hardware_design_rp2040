@@ -4,8 +4,8 @@
 
 ### Front view:
 
-<img align="middle" src="src/rp2040.png" width="1364" height="577">
+<img align="middle" src="src/rp2040.png" >
 
 ### Back view:
 
-<img align="middle" src="src/rp2040_b.png" width="1364" height="577">
+<img align="middle" src="src/rp2040_b.png" >
