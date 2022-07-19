@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "rp2040")(type "Legacy")(uri "${KIPRJMOD}/parts/ul_RP2040/KiCAD/2022-07-01_09-11-15/2022-07-01_09-11-15.lib")(options "")(descr ""))
+  (lib (name "2022-07-02_13-26-39")(type "Legacy")(uri "${KIPRJMOD}/parts/ul_W25Q128JVSIQ-TR (1)/KiCAD/2022-07-02_13-26-39/2022-07-02_13-26-39.lib")(options "")(descr ""))
+  (lib (name "ABLS-12.000MHZ-B4-T")(type "Legacy")(uri "${KIPRJMOD}/parts/Crys_Abracon_ABLS-12.000MHZ-B4-T/eec.lib")(options "")(descr ""))
+)
